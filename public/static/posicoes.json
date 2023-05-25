@@ -1,0 +1,30 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao1.png",
+      "imgperfil":"http://localhost:3000/static/ImgPosicoes/Ataque.png",
+      "link": "/posicao/1",
+      "posicao": "Ataque",
+      "funcao": "O atacante ou avançado é uma posição de linha do futebol. Desempenha função ofensiva, com objetivo de fazer gols ou dar assistências para seus companheiros. O objetivo dos atacantes são os ataques impulsivos contra o time adversário"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao2.png",
+      "imgperfil":"http://localhost:3000/static/ImgPosicoes/Meio.png",
+      "link": "/posicao/2",
+      "posicao": "Meio",
+      "funcao": "Os meios campistas são os responsáveis pelas criações das jogadas, ou seja armar o jogo. Atuando a partir do campo do adversário pelos lados direito, esquerdo ou mesmo pelo centro, estes atletas muitas vezes são os detentores de maior técnica e habilidade e dão passes para a conclusão dos atacantes"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao3.png",
+      "imgperfil":"http://localhost:3000/static/ImgPosicoes/Defesa.png",
+      "link": "/posicao/3",
+      "posicao": "Defesa",
+      "funcao": "A principal função do zagueiro é impedir o avanço dos jogadores adversários, marcando-os ou ocupando os espaços na zona defensiva, afastando os jogadores opostos e a bola além das proximidades de sua meta."
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao4.png",
+      "imgperfil":"http://localhost:3000/static/ImgPosicoes/Goleiro.png",
+      "link": "/posicao/4",
+      "posicao": "Goleiro",
+      "funcao": "O goleiro é o único jogador de uma equipe de futebol que pode tocar a bola com as mãos com o jogo “rolando”. É ele quem “soca” o perigo para fora da área em um escanteio e orienta a barreira na hora de uma cobrança de falta, por exemplo"
+    }
+]

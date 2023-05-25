@@ -1,0 +1,30 @@
+.BackGround {
+    display: grid;
+    border: 2px solid black;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 50px 40px 400px 90px;
+    justify-items: center;
+  }
+  
+  .Posicoes {
+    max-width: 77%;
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+  }
+
+  .Posicoes::-webkit-scrollbar{
+    display: none;
+  }
+
+  .Posicao {
+    background-color: #5F00AA;
+    width: 232px;
+    height: 301px;
+    border-radius: 15px;
+    margin-top: 35px;
+    flex:none;
+    justify-content: center;
+  }

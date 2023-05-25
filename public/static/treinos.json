@@ -1,0 +1,49 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino1.png",
+      "link": "/treino/1",
+      "treinos": [
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino1-1.png"
+        },
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino1-2.png"
+        },
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino1-3.png"
+        }
+      ]
+    },
+
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino2.png",
+      "link": "/treino/2",
+      "treinos":[
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino2-1.png"
+        },
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino2-2.png"
+        },
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino2-3.png"
+        }
+      ]
+    },
+
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino3.png",
+      "link": "/treino/3",
+      "treinos": [
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino3-1.png"
+        },
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino3-2.png"
+        },
+        {
+          "image": "http://localhost:3000/static/ImgTreinos/Treino3-3.png"
+        }
+      ]
+    }
+]

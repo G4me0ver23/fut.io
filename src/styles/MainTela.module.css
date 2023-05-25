@@ -1,0 +1,36 @@
+.BackGround {
+    display: grid;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 30px 100px 450px;
+    justify-items: center;
+  }
+  
+  .MeioTela {
+    margin-bottom: 30px;
+    width: 260px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+  }
+  
+  .Left {
+    justify-items: left;
+  }
+
+  .Center{
+    display: flex;
+    justify-content: center;
+  }
+
+  .Right {
+    display: flex;
+    justify-content: right;
+  }
+  
+  .Treino button img{
+    width: 245px;
+    height: 200px;
+    object-fit: cover;
+  }
+  

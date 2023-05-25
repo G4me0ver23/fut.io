@@ -1,0 +1,57 @@
+.BackGroundDiet {
+    display: grid;
+    border: 2px solid black;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 50px 80px 400px 50px;
+    justify-items: center;
+}
+
+.Nutris *{
+    color:white;
+}
+
+.BackGroundOther {
+    display: grid;
+    border: 2px solid black;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 50px 100px 430px;
+    justify-items: center;
+}
+  
+.Nutris {
+    background-color: #320754;
+    border-radius: 15px;
+    max-width: 82%;
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    width: 273px;
+    height: 383px;
+}
+  
+.Nutris::-webkit-scrollbar{
+    display: none;
+}
+  
+.Nutri {
+    width: 100%;
+    flex:none;
+    justify-content: center;
+}
+
+.Nutri:has(h2){
+    padding: 15px;
+}
+
+.Nutri img{
+    margin-top: 10px;
+
+}
+  
+.Nutri ul li{
+    margin-left: 40px;
+}

@@ -1,0 +1,73 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgNutri/Dieta.png",
+      "link": "/diet",
+      "dieta":[
+        {
+          "image": "http://localhost:3000/static/ImgNutri/Dieta-1.png",
+          "nome": "Café da manhã",
+          "alimentos": [
+            "2 morangos",
+            "1 banana",
+            "100 g de aveia em flocos",
+            "100 ml de leite"
+          ]
+        },
+        {
+          "image": "http://localhost:3000/static/ImgNutri/Dieta-2.png",
+          "nome": "Lanche da manhã",
+          "alimentos": [
+            "60 g de whey protein",
+            "2 bananas",
+            "40 g de leite",
+            "20 g de açucar"
+          ]
+        },
+        {
+          "image": "http://localhost:3000/static/ImgNutri/Dieta-3.png",
+          "nome": "Almoço",
+          "alimentos": [
+            "200 g de file de frango",
+            "100g de arroz ",
+            "100 g de legumes cozidos",
+            "80 g de feijão"
+          ]
+        },
+        {
+          "image": "http://localhost:3000/static/ImgNutri/Dieta-4.png",
+          "nome": "Lanche da tarde",
+          "alimentos": [
+            "2 fatias de põ integral",
+            "1 fatia de queijo",
+            "100g de atum",
+            "50 g de requeijão"
+          ]
+        },
+        {
+          "image": "http://localhost:3000/static/ImgNutri/Dieta-5.png",
+          "nome": "Jantar",
+          "alimentos": [
+            "200 g de file de frango",
+            "150 g de batata doce",
+            "3 ovos cozidos"
+          ]
+        }
+      ]
+    },
+    {
+      "image": "http://localhost:3000/static/ImgNutri/Metas.png",
+      "link": "/metmed/2",
+      "nome": "Metas",
+      "peso": 60,
+      "altura": 1.70,
+      "gordura": 8
+    },
+    {
+      "image": "http://localhost:3000/static/ImgNutri/Medidas.png",
+      "link": "/metmed/3",
+      "nome": "Medidas",
+      "peso": 55,
+      "altura": 1.70,
+      "gordura": 3
+    }
+]

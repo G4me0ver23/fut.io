@@ -1,0 +1,36 @@
+.BackGround {
+  display: grid;
+  border: 2px solid black;
+  border-radius: 13px;
+  height: 646px;
+  width: 301px;
+  grid-template-rows: 50px 0px 460px 70px;
+  justify-items: center;
+}
+
+.Psicos {
+  max-width: 66%;
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.Psicos::-webkit-scrollbar{
+  display: none;
+}
+
+.PsicoCurrent {
+  background-color: #5F00AA;
+  width: 202px;
+  height: 368px;
+  border-radius: 15px;
+  margin-top: 35px;
+  flex:none;
+  justify-content: center;
+}
+
+.PsicoCurrent button img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

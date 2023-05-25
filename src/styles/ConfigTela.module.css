@@ -1,0 +1,63 @@
+.BackGround {
+    display: grid;
+    border: 2px solid black;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 60px 80px;
+}
+
+*{
+    text-decoration: none;
+    color: black;
+}
+
+.Back{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.Back button img{
+    transform: rotate(180deg);
+  }
+
+
+.Config{
+    display:grid;
+    justify-items: left;
+}
+
+.Config input{
+    background-color: #d9d9d9;
+    width: 206px;
+    height: 33px;
+    border-radius: 20px;
+    margin: 0;
+    color: #828282;
+    margin-left: 12px;
+  }
+
+.Config h1{
+    margin-bottom: 20px;
+    margin-left: 45px;
+}
+
+.Config h2{
+    margin-left: 20px;
+}
+
+.OpcCheck{
+    margin-top: 170px;
+}
+
+.OpcCheck input{
+  background-color: #d9d9d9;
+  width: 33px;
+  height: 33px;
+  color: #828282;
+  margin-left: 12px;
+}
+
+label{
+    font-size: 18px;
+}

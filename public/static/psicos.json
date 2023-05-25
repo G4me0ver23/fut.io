@@ -1,0 +1,41 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico/1",
+      "perfil": "http://localhost:3000/static/ImgPsico/PerfilPsico1.png",
+      "nome": "Joana",
+      "fone": "82 99999-9999",
+      "email": "Psico@gmail.com",
+      "insta":"@Psico10",
+      "facul": "Ufal",
+      "atendidos": 23,
+      "estrelas": 4.4,
+      "endereço": "Rua Baronesa de Visco, 312. Sala 102" 
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico/2",
+      "perfil": "http://localhost:3000/static/ImgPsico/PerfilPsico1.png",
+      "nome": "Ana",
+      "fone": "82 98888-8888",
+      "email": "Ana@gmail.com",
+      "insta":"@Aninha_mcz",
+      "facul": "Unifal",
+      "atendidos": 12,
+      "estrelas": 4.1,
+      "endereço": "Rua Clementina Dona, 17." 
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico/3",
+      "perfil": "http://localhost:3000/static/ImgPsico/PerfilPsico1.png",
+      "nome": "Jurema",
+      "fone": "82 97777-7777",
+      "email": "Jureminha@gmail.com",
+      "insta":"@JudoGrau",
+      "facul": "Cesmac",
+      "atendidos": 78,
+      "estrelas": 4.3,
+      "endereço": "Rua saci o perneta, 89. Sala 06." 
+    }
+]

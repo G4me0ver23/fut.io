@@ -1,0 +1,26 @@
+.BackGround {
+    display: grid;
+    border: 2px solid black;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 50px 70px 460px;
+    justify-items: center;
+  }
+  
+  .Psicos {
+    margin-top: 35px;
+    height: 368px;
+    width: 202px;
+  }
+  
+  .PsicoCurrent {
+    background-color: #5F00AA;
+    height: 100%;
+    border-radius: 15px;
+    padding-left: 5px;
+  }
+
+  .PsicoCurrent *{
+    color: white;
+  }

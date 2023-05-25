@@ -1,0 +1,49 @@
+.BackGround {
+    display: grid;
+    border: 2px solid black;
+    border-radius: 13px;
+    height: 646px;
+    width: 301px;
+    grid-template-rows: 60px 80px;
+}
+
+.Back{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.Back button img{
+    transform: rotate(180deg);
+  }
+
+
+.Help{
+    display:grid;
+    justify-items: center;
+}
+
+.Help h1{
+    margin-bottom: 20px;
+}
+
+*{
+    text-decoration: none;
+    color: black;
+}
+
+.PesqeFeed{
+    margin-top: 140px;
+}
+
+h3{
+    margin-left: 20px;
+}
+.PesqeFeed input{
+  background-color: #d9d9d9;
+  width: 206px;
+  height: 33px;
+  border-radius: 20px;
+  margin: 0;
+  color: #828282;
+  margin-left: 12px;
+}

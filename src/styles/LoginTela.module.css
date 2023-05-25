@@ -1,0 +1,32 @@
+.BackGround {
+  display: grid;
+  border: 2px solid black;
+  border-radius: 13px;
+  height: 646px;
+  width: 301px;
+  grid-template-rows: 160px 60px 130px;
+}
+
+.Cadastro * {
+  margin-left: 41px;
+}
+
+.Login * {
+  margin-left: 82px;
+}
+
+.DadosLogin input {
+  background-color: #d9d9d9;
+  width: 206px;
+  height: 33px;
+  border-radius: 20px;
+  margin: 0;
+  color: #828282;
+  text-align: center;
+  margin-left: 46px;
+}
+.DadosLogin h3 {
+  margin: 5px;
+  text-align: left;
+  margin-left: 50px;
+}

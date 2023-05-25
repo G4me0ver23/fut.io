@@ -1,0 +1,46 @@
+.Botao {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    outline: none;
+  }
+  
+  .MenuTop {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+  }
+  
+  .Line {
+    margin-top: 10px;
+    margin-bottom: 3px;
+    height: 100%;
+    grid-template-columns: 2fr 1fr 2fr;
+  }
+  .MenuBottom {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  }
+  
+  .MenuBottom div:hover {
+    background-color: #d9d9d9;
+  }
+  
+  .MenuBottom div{
+    height:41px;
+  }
+
+  .MenuBottom button{
+    margin-left:10px;
+  }
+
+  .Setas{
+    display:grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+  }
+  .Setas button:first-child img{
+    transform: rotate(180deg);
+  }
